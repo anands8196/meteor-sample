@@ -1,0 +1,17 @@
+/* CSS declarations go here */
+.login-box-body  {
+    background: #d2d6de;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+    min-height: 350px;
+}
+
+
+.login-logo {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 300;
+    padding-top: 50px;
+}
